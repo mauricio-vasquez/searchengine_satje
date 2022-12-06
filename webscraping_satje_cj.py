@@ -291,9 +291,5 @@ for boton in range(len(buttons2)):
     sleep(0.3)
 
 
-# wait_until(S(boton_cerrar3).exists)
-
-
-
 
 
